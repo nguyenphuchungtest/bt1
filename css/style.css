@@ -1,0 +1,40 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.main{
+	background-color: #F2F2F2;
+	margin:100px 300px;
+	height: 600px;
+}
+.left{
+	float: left;
+	padding:100px 50px;
+	width: 381px;
+}
+.right{
+	float: right;
+	padding:100px 50px;
+	width: 600px;
+}
+.content{
+	margin:10px;
+	width: 230px;
+	float: left;
+	border: 1px solid #333;
+	padding:5px;
+}
+.content1{
+	background-color: #D8D8D8;
+  padding: 5px;
+}
+.all-content{
+	margin-top: 50px;
+}
+.title{
+  text-align: center;
+}
+.text{
+  text-align: center;
+}
